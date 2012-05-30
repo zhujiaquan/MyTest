@@ -9,9 +9,6 @@ typedef int bool;
 #define FALSE 0
 #define false 0
 
-// 100 ms
-#define TIMEOUT_SECONDS 100
-
 #define DEBUG true
 
 static void Dump(char *log)
