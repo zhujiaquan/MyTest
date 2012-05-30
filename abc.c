@@ -3,5 +3,5 @@
 
 void abc()
 {
-
+    printf("-- DEBUG: abc method -- \r\n");
 }
